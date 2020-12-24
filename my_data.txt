@@ -1,1 +1,1 @@
-secretdata
+plain text
